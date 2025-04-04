@@ -1,0 +1,21 @@
+{
+  "name": "my_snippets",
+  "contributes": {
+    "snippets": [
+      {
+        "path": "./terraform.json",
+        "language": [
+          "terraform",
+          "tf"
+        ]
+      },
+      {
+        "path": "./lua.json",
+        "language": [
+          "lua"
+        ]
+      }
+    ]
+  }
+}
+
